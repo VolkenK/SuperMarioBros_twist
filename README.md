@@ -1,35 +1,34 @@
-# Naam Proefopdracht
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
+# Super Mario twist
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
+voor deze opdracht heb ik een analyse gemaakt van de game super mario bros en daar een twist aan gegeven.
 
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- platforming
+- coins
+- fading light
+- win conditions
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+de game moest een 2d perspectief platformer zijn. dit was mogelijk in unity waar ik ook vertrouwd mee ben.
+dit is een simpele demo, dus meer onderzoek kan niet echt gedaan worden.
 
 ## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+- light fading
+- het analyseren van game design
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
+| Thought of and created an assignment to start. 
+
+The assignment became an analysis of Super Mario Bros. with some research on changed or added gameplay mechanics. After that I would make a small game demo of that gameplay mechanic. | started on writing the breakdown document. made a framework of sub categories filled in some basic notes. there after i fact checked my notes and adjusted and reordered the framework a bit. finaly i filled in the first 2 and a half subcategories. | --- | --- | --- | --- |
 |week 1 |
 |week 2 |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [collisions](https://unity3d.com/learn/tutorials/topics/physics/detecting-collisions-oncollisionenter)
+en nog wat andere dingen in de unity API.
